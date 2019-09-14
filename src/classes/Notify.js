@@ -9,6 +9,10 @@ let qtlinks = [
 		bot: "[ANB]"
 	},
 	{
+		url: "http://remote.eve-backend.net/api/quick_task?link=",
+		bot: "[EVE]"
+	},
+	{
 		url: "http://api.destroyerbots.io/quicktask?url=",
 		bot: "[PD]" 
 	},
