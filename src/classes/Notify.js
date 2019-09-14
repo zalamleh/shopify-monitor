@@ -75,7 +75,7 @@ Notify.discord = function (webhook_url, url, brand, metadata, type, color) {
 				"timestamp": new Date().toISOString(),
 				"footer": {
 					"icon_url":"https://cdn.discordapp.com/embed/avatars/0.png",
-					"text": "Shopify Monitor by aabbccsmith"
+					"text": "Shopify Monitor by Zak"
 				},
 				"thumbnail": {
 					"url": metadata.img
